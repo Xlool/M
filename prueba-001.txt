@@ -1,0 +1,2 @@
+https://download856.mediafire.com/p8p2iszvadkg/db6zdeqicx18zkf/prueba.AppImage
+https://repo.nordvpn.com/deb/nordvpn/debian/pool/main/nordvpn-release_1.0.0_all.deb
